@@ -1,5 +1,5 @@
 
-<img align="center" src="logo1.png" width="50px"/>
+<img align="center" src="logo1.png" width="100%"/>
 
 - 🌱 I’m currently learning javascript, css, html, sass, bootstrap
 
