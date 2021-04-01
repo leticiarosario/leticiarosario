@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning javascript, css, html, sass, bootstrap
 
-- 💞️ I’m looking to collaborate on como freelancer
+- 💞️ I’m looking to collaborate on as freelancer
 - 📫 How to reach me </br></br>
 [<img aling="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
 [<img aling="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
