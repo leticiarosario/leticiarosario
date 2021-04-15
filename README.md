@@ -2,16 +2,12 @@
 
 - 🌱 I’m currently learning javascript, css, html, sass, bootstrap
 
-<<<<<<< HEAD
-
 - # 💞️ I’m looking to collaborate on como freelancer
 - 💞️ I’m looking to collaborate on as freelancer
 - 📫 How to reach me </br></br>
   [<img aling="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
   [<img aling="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
   [<img aling="left" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>][slack]
-
-  > > > > > > > 224c33d7f8a6819d56cf8141939b4ad6f0c2f568
 
   ### Where to find me</br></br>
 
@@ -48,13 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiarosario&show_icons=true&theme=radical)
 
-<<<<<<< HEAD
 [facebook]: https://www.facebook.com/Leticiadeveloper
 [linkedin]: https://www.linkedin.com/in/leticiarosario26/
 [slack]: https://app.slack.com/client/TDGEDER0X/CDF7Q174L/user_profile/U01QU3AHBRP
 [hashnode]: https://hashnode.com/@leticiadev
-=======
-[facebook]:https://www.facebook.com/Leticiadeveloper
-[linkedin]:https://www.linkedin.com/in/leticiarosario26/
-[slack]:https://app.slack.com/client/TDGEDER0X/CDF7Q174L/user_profile/U01QU3AHBRP
-[hashnode]:https://hashnode.com/@leticiadev
