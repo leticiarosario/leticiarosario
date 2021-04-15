@@ -1,10 +1,8 @@
 ### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sou Leticia!
 
-## ![GitHub followers](https://img.shields.io/github/followers/leticiarosario?style=social)
-
 <img align="center" src="front-end Web developer.png" width="100%"/>
 
-### Social
+### 📥 Entre em contato
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
 [<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
