@@ -4,14 +4,14 @@
 
 <img align="right" src="about.png" width="425px"/>
 
-### 🙋‍♀️ Leticia Rosário
+### Sou 🙋‍♀️ Leticia Rosário
 
 - Jr. Front-end Web developer, analista de sistema.
 
 * Cabo-verdiana.
 * 🎓Formada em Informática de Gestão.
 * Meu primeiro contato com linguagem programação foi linguagem c, depois algoritmos e estruturas de dados, a seguir veio java e base de dados.
-* 💜Tenho experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento).
+* 💜Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento).
 
 - Hobbies: 📚, 🎧, 💻.
 - Interesse em: Tailwind, Sass, react, Sql.
@@ -42,9 +42,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
 <img alt="logo markdown" width="40px" src="https://cdn.worldvectorlogo.com/logos/markdown.svg">
 <img alt="logo markdown mosnter" width="30px" src="https://markdownmonster.west-wind.com/Images/MarkdownMonster_Icon_256.png">
-<img alt="logo linguagem c" width="35px" src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png">
-<img alt="logo phph" width="40px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
-<img alt="logo de java" width="40px" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+<img alt="logo php" width="40px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
 <img alt="log do intelij" width="30px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg">
 
 ---
