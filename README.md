@@ -1,12 +1,28 @@
-### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sou Leticia!
+### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Seja bem-vindo ao meu perfil!
 
-<img align="center" src="front-end Web developer.png" width="100%"/>
+---
 
-### 📥 Entre em contato
+<img align="right" src="about.png" width="425px"/>
 
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
-[<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img  src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>][slack]
+### 🙋‍♀️ Leticia Rosário
+
+- Jr. Front-end Web developer, analista de sistema.
+
+* Cabo-verdiana.
+* 🎓Formada em Informática de Gestão.
+* Meu primeiro contato com linguagem programação foi linguagem c, depois algoritmos e estruturas de dados, a seguir veio java e base de dados.
+* 💜Tenho experiencia com Scrum, Html5, Css3, Bootstrap.
+
+- Hobbies: 📚, 🎧, 💻.
+- Interesse em: Tailwind, Sass, react, Sql.
+
+* 🎯 Objetivos: tornar-me uma grande programadora em quem sabe mais a frente tornar-me um Full Stack Web developer anos a frente front-end e back-end vão acabar se juntando.
+
+### Contato
+
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/Leticiadeveloper)
+[<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/leticiarosario26/)
+[<img  src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>](https://app.slack.com/client/TDGEDER0X/CDF7Q174L/user_profile/U01QU3AHBRP)
 
 <!---
 leticiarosario/leticiarosario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,16 +40,15 @@ You can click the Preview link to take a look at your changes.
 <img alt="logo do git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg">
 <img alt="logo photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/photoshop/photoshop-line.svg">
 <img alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+<img alt="logo markdown" width="40px" src="https://cdn.worldvectorlogo.com/logos/markdown.svg">
+<img alt="logo markdown mosnter" width="30px" src="https://markdownmonster.west-wind.com/Images/MarkdownMonster_Icon_256.png">
 
 ---
 
 ### 📈 My status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarosario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarosario&hide=sass&layout=compact&theme=radical)
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiarosario&show_icons=true&theme=radical)
 
-[facebook]: https://www.facebook.com/Leticiadeveloper
-[linkedin]: https://www.linkedin.com/in/leticiarosario26/
-[slack]: https://app.slack.com/client/TDGEDER0X/CDF7Q174L/user_profile/U01QU3AHBRP
 [hashnode]: https://hashnode.com/@leticiadev
