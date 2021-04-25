@@ -47,7 +47,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 📈 My status
 
+<<<<<<< HEAD
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarosario&hide=sass&layout=compact&theme=radical)
+=======
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarosario&hide=SASS&layout=compact&theme=radical)
+>>>>>>> 14b9633a3189a253c9ac290e1c7d5d96193d89b6
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiarosario&show_icons=true&theme=radical)
 
