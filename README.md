@@ -14,7 +14,7 @@
 * 💜Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento).
 
 - Hobbies: 📚, 🎧, 💻.
-- Interesse em: Tailwind, Sass, react, Sql.
+- Interesse em: Tailwind, Sass, react, Sql, flutter.
 
 * 🎯 Objetivos: tornar-me uma grande programadora em quem sabe mais a frente tornar-me um Full Stack Web developer anos a frente front-end e back-end vão acabar se juntando.
 
