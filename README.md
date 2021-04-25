@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📈 My status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarosario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarosario&hide=SASS&layout=compact&theme=radical)
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiarosario&show_icons=true&theme=radical)
 
