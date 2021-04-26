@@ -49,8 +49,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 📈 My status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leticiarosario&hide=SASS&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiarosario&show_icons=true&&hide=SASS&locale=en&layout=radical" alt="leticiarosario" /></p>
 
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiarosario&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiarosario&show_icons=true&locale=en&layout=radical" alt="leticiarosario" /></p>
 
 [hashnode]: https://hashnode.com/@leticiadev
