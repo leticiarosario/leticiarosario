@@ -11,7 +11,7 @@
 * Cabo-verdiana.
 * 🎓Formada em Informática de Gestão.
 * Meu primeiro contato com linguagem programação foi linguagem c, depois algoritmos e estruturas de dados, a seguir veio java e base de dados.
-* 💜Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento).
+* 💜Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento), Msql, Postgresql.
 
 - Hobbies: 📚, 🎧, 💻.
 - Interesse em: Tailwind, Sass, react, Sql, flutter.
