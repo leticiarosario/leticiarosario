@@ -2,21 +2,21 @@
 
 ---
 
+<img align="center" src="front-endWebdeveloper.png">
+
 <img align="right" src="about.png" width="425px"/>
 
 ### Sou 🙋‍♀️ Leticia Rosário
 
-- Jr. Front-end Web developer, analista de sistema.
+- Cabo-verdiana.
+- 🎓Formada em Informática de Gestão.
+- Meu primeiro contato com linguagem programação foi linguagem c, depois algoritmos e estruturas de dados, a seguir veio java e base de dados.
+- 💜Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento), Msql, Postgresql.
 
-* Cabo-verdiana.
-* 🎓Formada em Informática de Gestão.
-* Meu primeiro contato com linguagem programação foi linguagem c, depois algoritmos e estruturas de dados, a seguir veio java e base de dados.
-* 💜Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento), Msql, Postgresql.
+* Hobbies: 📚, 🎧, 💻.
+* Interesse em: Tailwind, Sass, react, Sql, flutter.
 
-- Hobbies: 📚, 🎧, 💻.
-- Interesse em: Tailwind, Sass, react, Sql, flutter.
-
-* 🎯 Objetivos: tornar-me uma grande programadora em quem sabe mais a frente tornar-me um Full Stack Web developer anos a frente front-end e back-end vão acabar se juntando.
+- 🎯 Objetivos: tornar-me uma grande programadora em quem sabe mais a frente tornar-me um Full Stack Web developer anos a frente front-end e back-end vão acabar se juntando.
 
 ### Contato
 
