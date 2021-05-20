@@ -2,7 +2,7 @@
 
 <img align="center" src="front-endWebdeveloper.png">
 
-<img align="right" src="about.png" width="425px"/>
+<img align="right" src="about.png" width="450px" height="400px"/>
 
 ### Sou 🙋‍♀️ Leticia Rosário
 
@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+</br>
 <h3 align="center">🧰 Skills and Tools</h3>
 
 <p align="center">
@@ -69,10 +70,12 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="logo do git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg">
 <img align="center" alt="logo markdown mosnter" width="30px" src="https://markdownmonster.west-wind.com/Images/MarkdownMonster_Icon_256.png">
 </p>
+</br>
+</br>
 
 ---
 
-### 📈 My status
+<h3 align="center"> 📈 My status</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiarosario&hide=SASS&locale=en&theme=radical" alt="leticiarosario" /></p>
 
