@@ -18,11 +18,11 @@ Meu primeiro contato com linguagem programação foi linguagem c, depois algorit
 
 ### Interesse em:
 
-<img alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
-<img alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
-<img alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-<img alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg">
-<img alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
+<img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+<img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
+<img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+<img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg">
+<img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
 
 ### Entre em contato
 
