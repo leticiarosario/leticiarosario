@@ -2,7 +2,7 @@
 
 <img align="center" src="front-endWebdeveloper.png">
 
-<img align="right" src="about.png" width="450px" height="400px"/>
+<img align="right" src="about.png" width="450px" />
 
 ### Sou 🙋‍♀️ Leticia Rosário
 
@@ -18,7 +18,7 @@ Meu primeiro contato com linguagem programação foi linguagem c, depois algorit
 
 ### Interesse em:
 
-<img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+<img align="left" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
 <img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
 <img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 <img align="center" alt="logo sublime" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg">
