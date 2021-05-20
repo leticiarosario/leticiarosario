@@ -10,10 +10,6 @@ Sou cabo-verdiana,🎓Formada em Informática de Gestão.
 Meu primeiro contato com linguagem programação foi linguagem c, depois algoritmos e estruturas de dados, a seguir veio java e base de dados.
 💜Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento), Msql, Postgresql.
 
-### Hobbies
-
-📚, 🎧, 💻.
-
 🎯 Objetivos: tornar-me uma grande programadora em quem sabe mais a frente tornar-me um Full Stack Web developer anos a frente front-end e back-end vão acabar se juntando.
 
 ### Interesse em:
