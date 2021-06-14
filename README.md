@@ -57,9 +57,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiarosario&hide=SASS&locale=en&theme=radical&hide_border=true" alt="leticiarosario" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiarosario&hide=SASS&locale=en&theme=midnight-purple&hide_border=true" alt="leticiarosario" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiarosario&show_icons=true&locale=en&theme=radical&hide_border=true"" alt="leticiarosario" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiarosario&show_icons=true&locale=en&theme=midnight-purple&hide_border=true"" alt="leticiarosario" /></p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leticiarosario&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
