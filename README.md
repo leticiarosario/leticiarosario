@@ -55,7 +55,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<h3 align="center"> 📈 Meu estado</h3>
+### 📈 Meu estado
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiarosario&hide=SASS&locale=en&theme=radical&hide_border=true" alt="leticiarosario" /></p>
 
