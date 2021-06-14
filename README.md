@@ -1,6 +1,6 @@
 <p align ="center">
 
-<img  src="./Webdev.png" width="300px">
+<img  src="Webdev.png" width="300px">
 
 </p>
 
