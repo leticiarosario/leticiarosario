@@ -32,9 +32,9 @@ leticiarosario/leticiarosario is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
----
+### 🧰 Habilidades e ferramentas
 
-<h3 align="center">🧰 Habilidades e ferramentas</h3>
+---
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/4a90e2/bootstrap.png"/>
@@ -53,8 +53,6 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
----
-
 ### 📈 Meu estado
 
 ---
@@ -65,9 +63,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leticiarosario&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
 ### Entre em contato
+
+---
 
 [<img  src="https://img.icons8.com/clouds/100/4a90e2/facebook-new.png"/>](https://www.facebook.com/Leticiadeveloper)
 [<img src="https://img.icons8.com/clouds/100/4a90e2/linkedin.png"/>](https://www.linkedin.com/in/leticiarosario26/)
