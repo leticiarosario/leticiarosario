@@ -4,7 +4,10 @@
 
 </p>
 
-<h2 align="center"> 🙋‍♀️ Leticia Rosário</h2>
+<h2 align="center" style = "background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; font-size:2rem"> Leticia Rosário</h2>
 
 <img align="right" src="about.png" width="450px" />
 
