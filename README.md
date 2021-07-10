@@ -4,18 +4,7 @@
 
 </p>
 
-<style>
-h2{
-background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent; font-size:2rem;
-    text-align:center;
-}
-
-</style>
-
-<h2> Leticia Rosário</h2>
+<h2 align="center" color="#2575fc"> Leticia Rosário</h2>
 
 <img align="right" src="about.png" width="450px" />
 
