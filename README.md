@@ -4,7 +4,7 @@
 
 </p>
 
-<h2 align="center" color="#2575fc"> Leticia Rosário</h2>
+<h2 align="center"> Leticia Rosário</h2>
 
 <img align="right" src="about.png" width="450px" />
 
